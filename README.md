@@ -18,7 +18,7 @@ If you are good at playing poker and are interested in human testing against Pok
 
 We are also seeking poker professional players willing to participate in multiplayer poker testing too.
 
-If you're interested in PokerSkill or other research topics related to poker or other games, please feel free to contact me—we have a wide range of interesting projects. I'd be happy to mentor undergraduate students and I'm open to various forms of research collaboration.
+If you're interested in PokerSkill or other research topics related to poker or other games, please feel free to contact me. We have the most advanced solvers for incomplete-information games, poker AI, and poker agents in the academic community, as well as a wide range of fascinating research topics. I'd be happy to mentor undergraduate students and I'm open to various forms of research collaboration.
 
 ---
 
