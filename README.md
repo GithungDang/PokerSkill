@@ -8,6 +8,16 @@
 **Affiliation:** Tsinghua University  
 **Email:** li-bn22@mails.tsinghua.edu.cn
 
+# Poker AI 
+
+Our Poker AI (not PokerSkill) can crush online Texas Hold'em by using a large model-based search algorithm that supports millisecond level equilibrium strategy solving in any multiplayer scenario. Our strategy accuracy and strength are close to GTOWizard (the strongest solver), and our AI can handle any scenario solvers can not handle (such as a group of people limp ahead, or 6 people entering a flip). If you are interested in commercial cooperation with our poker AI, please contact me. 
+
+## Human Testing
+
+If you are good at playing poker and are interested in human testing against PokerSkill, please contact me for details.
+
+We are also seeking poker professional players willing to participate in multiplayer poker testing too.
+
 ---
 
 ## Intro
@@ -150,19 +160,13 @@ A deterministic context engine analyzes the current game state and retrieves onl
 - API keys are only read from environment variables
 - It is not allowed to be used in online poker room
 
-## Human Testing
-
-If you are good at playing poker and are interested in human testing against PokerSkill, please contact me for details.
-
-We are also seeking poker professional players willing to participate in multiplayer poker testing too.
-
 ## Citation
 
 ```bibtex
 @article{li2026pokerskill,
   title={PokerSkill: LLMs Can Play Expert-Level Poker without Training or Solvers},
   author={Li, Boning and Wang, Baoxiang and Huang, Longbo},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2605.30094},
   year={2026}
 }
 ```
