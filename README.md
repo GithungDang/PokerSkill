@@ -12,11 +12,11 @@
 
 Our Poker AI (not PokerSkill) can crush online Texas Hold'em by using a large model-based search algorithm that supports millisecond level equilibrium strategy solving in any multiplayer scenario. Our strategy accuracy and strength are close to GTOWizard (the strongest solver), and our AI can handle any scenario solvers can not handle (such as a group of people limp ahead, or >=4 people entering a flop). Our AI can also exploit weaker opponents and earn more profits than GTO solver. If you are interested in commercial cooperation with our poker AI, please contact me. 
 
-## Human Testing and Future Research
+## Human Testing
 
-If you are good at playing poker and are interested in human testing against PokerSkill, please contact me for details. We are also seeking poker professional players willing to participate in multiplayer poker testing too.
+If you are good at playing poker and are interested in human testing against PokerSkill, please contact me for details. 
 
-If you're interested in PokerSkill or other research topics related to poker or other games, please feel free to contact me. We have the most advanced solvers for incomplete-information games, poker AI, and poker agents in the academic community, as well as a wide range of fascinating research topics. I'd be happy to mentor undergraduate students and I'm open to various forms of research collaboration.
+We are also seeking poker professional players willing to participate in multiplayer poker testing too.
 
 ---
 
